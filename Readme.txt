@@ -1,5 +1,5 @@
 1. Copy files in the "var-lib-apt-lists" folder into /var/lib/apt/lists folder
-
+	download https://github.com/baosheng0304/PointCloudLib/tree/main/var-lib-apt-lists
 2. Install required packages
   download https://github.com/baosheng0304/PointCloudLib/tree/main/var-cache-apt-archives
     $ cd var-cache-apt-archives
