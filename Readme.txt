@@ -1,8 +1,8 @@
 1. Copy files in the "var-lib-apt-lists" folder into /var/lib/apt/lists folder
 
 2. Install required packages
-   
-    $ cd Packages
+  download https://github.com/baosheng0304/PointCloudLib/tree/main/var-cache-apt-archives
+    $ cd var-cache-apt-archives
     $ sudo dpkg -i *.deb
 
 3. Install Pangolin
